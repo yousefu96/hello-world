@@ -1,2 +1,2 @@
 # hello-world
-Practice/Intro to repository suppositories 
+Practice/Intro to Repository Suppositories 
